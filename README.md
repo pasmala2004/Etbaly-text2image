@@ -308,9 +308,3 @@ Hunyuan3D-2/
 | API Server | Flask (Python) |
 | GPU Platform | Lightning.ai (separate account) |
 | Backend | Express.js (Vercel) |
-
-EOF
-Then push it:
-bashgit add README_TEXT2IMAGE.md
-git commit -m "Add text2image server README"
-git push origin main
